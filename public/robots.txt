@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daspk03.github.io/prabir-das-academic-website/sitemap.xml
